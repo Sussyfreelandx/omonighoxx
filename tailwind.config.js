@@ -1,0 +1,1 @@
+module.exports = {\n  content: [\n    "./pages/**/*.{js,jsx}",\n    "./components/**/*.{js,jsx}"\n  ],\n  theme: {\n    extend: {\n      colors: {\n        navy: '#0b2340',\n        steel: '#4b5563',\n        accent: '#0ea5a4'\n      }\n    }\n  },\n  plugins: []\n}\n

@@ -1,0 +1,1 @@
+Required (Netlify environment variables):\n- TELEGRAM_BOT_TOKEN\n- TELEGRAM_CHAT_ID\n\nRecommended:\n- NEXT_PUBLIC_API_BASE\n
